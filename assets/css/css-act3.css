@@ -1,0 +1,43 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+
+h1{
+    text-align: center;
+    letter-spacing: 10px;
+}
+a{
+    background-color: lightslategray;
+    color: white;
+    padding: 1em;
+    margin:2em;
+    box-shadow: black  0.5em 0.5em 1em 0em;
+}
+.link{
+    text-align: center;
+    text-transform:uppercase;
+    font-size: small;
+    display:flex;
+}
+
+.box{
+    width: 70%;
+    height: 10%;
+    border-style: double ;
+    margin: 5% 5%;
+    padding:10%;
+    background-image: url(../images/naruto.jpg);
+    background-size: 30%;
+    background-repeat: no-repeat;
+    background-position: right;
+    box-shadow: black 0.5em 0.5em 1em 0em;
+
+
+} 
+p{
+    padding-right: 60%;
+    font-size: 20px;
+
+}

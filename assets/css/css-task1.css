@@ -1,0 +1,10 @@
+*{
+    margin:0;
+    padding:0;
+}
+.box{
+    width: 90%;
+    height: 600px;
+    background-image: url(../images/caffee.jpg);
+    background-size: cover;
+}
